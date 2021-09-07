@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Altrooist](https://github.com/eytienne87/altrooist-app)
 
-- 👯 I’m looking to collaborate on **Anything!**
+- 👯 I’m looking to collaborate on **anything that sounds interesting!**
 
 - 📫 How to reach me **etienne_tessier100@hotmail.ca**
 
