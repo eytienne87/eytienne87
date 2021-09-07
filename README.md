@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Etienne</h1>
+<h1 align="center">Hi 👋, I'm Étienne</h1>
 <h3 align="center">An enthusiastic full-stack developer from Montreal</h3>
 
 - 🔭 I’m currently working on [Altrooist](https://github.com/eytienne87/altrooist-app)
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **etienne_tessier100@hotmail.ca**
 
-- ⚡ Fun fact **I love Nintendo games**
+- ⚡ Fun fact **I love Nintendo games and dark humor**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
