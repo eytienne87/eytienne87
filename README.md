@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on **Anything!**
+- 👯 I’m looking to collaborate on **anything that sounds interesting**
 
 - 📫 How to reach me **etienne_tessier100@hotmail.ca**
 
-- ⚡ Fun fact **I love Nintendo games**
+- ⚡ Fun fact **I love Nintendo games and dark humor**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
