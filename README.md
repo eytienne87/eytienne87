@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Etienne</h1>
+<h1 align="center">Hi 👋, I'm Étienne</h1>
 <h3 align="center">An enthusiastic full-stack developer from Montreal</h3>
 
 - 🔭 I’m currently working on [Altrooist](https://github.com/eytienne87/altrooist-app)
