@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on **Anything!**
+- 👯 I’m looking to collaborate on **anything!**
 
 - 📫 How to reach me **etienne_tessier100@hotmail.ca**
 
