@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Étienne</h1>
 <h3 align="center">An enthusiastic full-stack developer from Montreal</h3>
 
-- 🔭 I’m currently working on [Altrooist](https://github.com/eytienne87/altrooist-app)
-
 - 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **anything!**
 
-- 📫 How to reach me **etienne_tessier100@hotmail.ca**
+- 📫 You can reach me at **etienne_tessier100@hotmail.ca**
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
