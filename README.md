@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Étienne</h1>
 <h3 align="center">An enthusiastic full-stack developer from Montreal</h3>
 
-- 🌱 I’m currently learning **React**
-
-- 👯 I’m looking to collaborate on **anything!**
+- 🌱 I’m currently learning **Vue**
 
 - 📫 You can reach me at **etienne_tessier100@hotmail.ca**
 
